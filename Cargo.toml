@@ -1,0 +1,6 @@
+[package]
+name = "topology_maker"
+version = "0.1.0"
+authors = ["Ittoh Kimura <kimura.itto.kd3@is.naist.jp>"]
+
+[dependencies]
